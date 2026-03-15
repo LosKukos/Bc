@@ -15,6 +15,6 @@ Aktuální moduly
   3. Menu.ino - WIP, Web dokončen.
   4. PPG.cpp - WIP
   5. RGBMENU.cpp - Modul dokončen a okomentován, Web dokončen.
-  6. Settings.cpp - WIP, Web nebude k dispozici - nutnost nastavit skrze Bluetooth, aby nedošlo k problémy s náhlým odpojením a připojením od WiFi?
-  7. SnakeLib.cpp - WIP
-  8. Web.cpp - WIP
+  6. Settings.cpp - WIP, Web nebude k dispozici - nutnost nastavit skrze Bluetooth, aby nedošlo k zablokování přístupu na WiFi zapomenutím údajů
+  7. SnakeLib.cpp - Modul dokončen a okomentován, Web dokončen.
+  8. Web.cpp - Modul dokončen, vkládání HTML stránek
